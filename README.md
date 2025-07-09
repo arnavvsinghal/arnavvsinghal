@@ -4,21 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋+I'm+Arnav+Singhal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
-
-<div align="center">
-  
-🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from IIT Jodhpur. 
-  
-👨🏻‍💻 I am highly passionate about development, technology and programming. 
-
-📖 I am keen learner with a strong interest in Software Development and Machine Learning.
-
-🚀 I love engaging in solving complex problems and exploring emerging technologies.
-
- </div>
  <p align="center" >
   <a href="https://www.linkedin.com/in/arnav-singhal-985683225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav" height="30" width="60" /></a>
    <a href="mailto:arnavsinghaldev@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5f200af5-3a53-48aa-86d1-2456012c7757" alt="arnav" height="60" width="60" /></a>
